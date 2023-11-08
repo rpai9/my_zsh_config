@@ -2,9 +2,7 @@
 
 This is how the `${USER}` like the terminal setup on their machines!
 
-<video width="320" height="240" controls="controls">
-  <source src="" type="video/mp4">
-</video>
+https://github.com/rpai9/my_zsh_config/assets/68650968/79cfdb1e-d435-4eb8-956f-60d40a45dde0
 
 ## How to setup?
 - Create a dir called `zsh_theme` at home folder and move the content of `zsh_theme` to `~/zsh_theme` on your computer.
